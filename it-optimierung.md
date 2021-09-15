@@ -46,7 +46,7 @@ Oliver Sommer und ich haben uns im Frühjahr zusammengsetzt und die Anforderunge
 
 Da dies die Arbeit hinter den Kulissen stark erleichtern soll, aber nur wenige Mitglieder direkt betrifft, werde ich hier nicht länger darauf eingehen.
 
----
+<br/>
 
 Wenn ihr weitere Großbaustellen habt, die bisher keine Erwähnung fanden, dann meldet euch gerne bei mir, Moritz Makowski (makowskimoritz@gmail.com) oder kommt einfach zum Segeln in München vorbei.
 
